@@ -43,6 +43,15 @@ PedidoWorker: Worker background que consome mensagens da fila e atualiza status 
 ApiTmb.Hubs: SignalR Hub PedidoHub para comunicação em tempo real
 
 ## Configuração do Ambiente
+Clonando o repositório
+
+
+```env
+git clone https://github.com/MrcsFaria/API-TMB
+cd API-TMB
+```
+
+
 ## Banco de Dados PostgreSQL
 Crie um banco PostgreSQL (exemplo: api_tmb)
 
